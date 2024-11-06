@@ -15,5 +15,5 @@ venv\Scripts\activate
 
 install the requirment
 ```bush
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
